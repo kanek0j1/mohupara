@@ -39,9 +39,18 @@ nav ul li{
     width: 70%;
     height: 5000px;
     margin-left: 15%;
+    text-align: center;
+
 }
 
 .main h1{
-    margin: 5px;
-    margin-left: 100px;
+    margin: 0;
+    padding-top: 3%;
 }
+
+.box{
+    margin-top: 5%;
+    margin-left: 12%;
+    margin-right: 12%;
+}
+
